@@ -2,7 +2,7 @@
 
 Sigam o descrito no enunciado desse arquivo e no link do slide.
 
-Atividades entregues após o prazo valem 50% da nota até a data final de cada unidade, quando não serão mais aceitas.
+Atividades entregues após o prazo não serão mais aceitas. A data considerada será a do push.
 
 ## Unidade 01 (12/03/2026 a 18/05/2026)
 
