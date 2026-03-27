@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cardapio SYSTEM "definicoes.dtd">
+<cardapio>
+    <pratos id="P01">
+        <nome>Arroz Refogado</nome>
+        <descricao>
+            refogue alho e cebola picados em óleo ou azeite, adicione o arroz (lavado ou não) e frite até os grãos ficarem esbranquiçados e brilhantes. Adicione água quente (proporção de 2:1 para água:arroz),
+             sal, baixe o fogo e cozinhe com a panela semitampada até a água secar. 
+        </descricao>
+        <ingredientes>
+            <ingrediente>Arroz</ingrediente>
+            <ingrediente>Alho</ingrediente>
+            <ingrediente>Azeite</ingrediente>
+        </ingredientes>
+        <preco>10.00</preco>
+        <calorias>130</calorias>
+        <tempoPreparo>10 minutos</tempoPreparo>
+    </pratos>
+     <pratos id="P02">
+        <nome>Pão com ovo</nome>
+        <descricao>Combina pão (geralmente francês) com ovos fritos, mexidos ou cozidos, muitas vezes tostado na frigideira com manteiga. </descricao>
+        <ingredientes>
+            <ingrediente>Pão</ingrediente>
+            <ingrediente>Ovo</ingrediente>
+            <ingrediente>Manteiga</ingrediente>
+            <ingrediente>Salzinho</ingrediente>
+        </ingredientes>
+        <preco>2.55</preco>
+        <calorias>250</calorias>
+        <tempoPreparo>4 minutos</tempoPreparo>
+    </pratos>
+    <pratos id="P03">
+        <nome>Tapioca com ovo</nome>
+        <descricao>A tapioca é uma fécula extraída da mandioca, popular no Brasil como base para o beiju, um lanche prático, sem glúten e rico em carboidratos. Preparada com goma hidratada em frigideira quente,
+             pode receber recheios doces ou salgados. Por ter alto índice glicémico, seu consumo deve ser equilibrado.</descricao>
+        <ingredientes>
+            <ingrediente>Goma de Tapioca</ingrediente>
+            <ingrediente>Ovo</ingrediente>
+            <ingrediente>Salzinho</ingrediente>
+        </ingredientes>
+        <preco>5.00</preco>
+        <calorias>140</calorias>
+        <tempoPreparo>5 minutos</tempoPreparo>
+    </pratos>
+     <pratos id="P04">
+        <nome>Tapioca com frango</nome>
+        <descricao>tapioca com frango desfiado ás 3 da manhã de um domingo</descricao>
+        <ingredientes>
+            <ingrediente>Goma de tapioca</ingrediente>
+            <ingrediente>Frango desfiado</ingrediente>
+            <ingrediente>Salzinho</ingrediente>
+            <ingrediente>Temperos adicionais a mão do chefe</ingrediente>
+        </ingredientes>
+        <preco>7.00</preco>
+        <calorias>250</calorias>
+        <tempoPreparo>7 minutos</tempoPreparo>
+    </pratos>
+     <pratos id="P05">
+        <nome>Crepioca</nome>
+        <descricao>A crepioca é um lanche rápido e saudável, feito com a mistura de um ovo e duas a três colheres de goma de tapioca, resultando em uma massa similar a uma panqueca. É rica em proteínas,
+             possui menos carboidratos que a tapioca pura, e pode ser recheada com queijo, frango ou opções doces.</descricao>
+        <ingredientes>
+            <ingrediente>Goma de tapioca</ingrediente>
+            <ingrediente>Ovo</ingrediente>
+            <ingrediente>Salzinho</ingrediente>
+        </ingredientes>
+        <preco>4.00</preco>
+        <calorias>150</calorias>
+        <tempoPreparo>4 minutos</tempoPreparo>
+    </pratos>
+</cardapio>
