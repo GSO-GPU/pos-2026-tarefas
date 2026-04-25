@@ -1,0 +1,73 @@
+{
+  "cardapio": {
+    "pratos": [
+      {
+        "id": "P01",
+        "nome": "Arroz Refogado",
+        "descricao": "refogue alho e cebola picados em óleo ou azeite, adicione o arroz (lavado ou não) e frite até os grãos ficarem esbranquiçados e brilhantes. Adicione água quente (proporção de 2:1 para água:arroz), sal, baixe o fogo e cozinhe com a panela semitampada até a água secar.",
+        "ingredientes": [
+          "Arroz",
+          "Alho",
+          "Azeite"
+        ],
+        "preco": 10.00,
+        "calorias": 130,
+        "tempoPreparo": "10 minutos"
+      },
+      {
+        "id": "P02",
+        "nome": "Pão com ovo",
+        "descricao": "Combina pão (geralmente francês) com ovos fritos, mexidos ou cozidos, muitas vezes tostado na frigideira com manteiga.",
+        "ingredientes": [
+          "Pão",
+          "Ovo",
+          "Manteiga",
+          "Salzinho"
+        ],
+        "preco": 2.55,
+        "calorias": 250,
+        "tempoPreparo": "4 minutos"
+      },
+      {
+        "id": "P03",
+        "nome": "Tapioca com ovo",
+        "descricao": "A tapioca é uma fécula extraída da mandioca, popular no Brasil como base para o beiju, um lanche prático, sem glúten e rico em carboidratos. Preparada com goma hidratada em frigideira quente, pode receber recheios doces ou salgados. Por ter alto índice glicémico, seu consumo deve ser equilibrado.",
+        "ingredientes": [
+          "Goma de Tapioca",
+          "Ovo",
+          "Salzinho"
+        ],
+        "preco": 5.00,
+        "calorias": 140,
+        "tempoPreparo": "5 minutos"
+      },
+      {
+        "id": "P04",
+        "nome": "Tapioca com frango",
+        "descricao": "tapioca com frango desfiado ás 3 da manhã de um domingo",
+        "ingredientes": [
+          "Goma de tapioca",
+          "Frango desfiado",
+          "Salzinho",
+          "Temperos adicionais a mão do chefe"
+        ],
+        "preco": 7.00,
+        "calorias": 250,
+        "tempoPreparo": "7 minutos"
+      },
+      {
+        "id": "P05",
+        "nome": "Crepioca",
+        "descricao": "A crepioca é um lanche rápido e saudável, feito com a mistura de um ovo e duas a três colheres de goma de tapioca, resultando em uma massa similar a uma panqueca. É rica em proteínas, possui menos carboidratos que a tapioca pura, e pode ser recheada com queijo, frango ou opções doces.",
+        "ingredientes": [
+          "Goma de tapioca",
+          "Ovo",
+          "Salzinho"
+        ],
+        "preco": 4.00,
+        "calorias": 150,
+        "tempoPreparo": "4 minutos"
+      }
+    ]
+  }
+}

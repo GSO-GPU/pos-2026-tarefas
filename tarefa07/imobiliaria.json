@@ -1,0 +1,106 @@
+{
+  "imobiliaria": {
+    "imovel": [
+      {
+        "descricao": "Mansão em chicago, proxima ao United Center",
+        "proprietario": {
+          "nome": "Michael Jeffrey Jordan",
+          "email": "TheGoat@gmail.com",
+          "telefone": "9090-2346"
+        },
+        "endereco": {
+          "rua": "Rua dos bulls",
+          "bairro": "United Center",
+          "cidade": "Chicago",
+          "numero": "46"
+        },
+        "caracteristicas": {
+          "tamanho": "197m2",
+          "numQuartos": 15,
+          "numBanheiros": 5
+        },
+        "valor": 3500000000
+      },
+      {
+        "descricao": "Muito linda",
+        "proprietario": {
+          "nome": "Oliveira",
+          "email": "oliveira@gmail.com",
+          "telefone": "302139809, 309182039"
+        },
+        "endereco": {
+          "rua": "Rua dos banzeiro",
+          "bairro": "centro",
+          "cidade": "São Jose",
+          "numero": ""
+        },
+        "caracteristicas": {
+          "tamanho": "150m2",
+          "numQuartos": 4,
+          "numBanheiros": 2
+        },
+        "valor": 10000000
+      },
+      {
+        "descricao": "Casa na praia",
+        "proprietario": {
+          "nome": "Ana",
+          "email": "Analinda@gmail.com",
+          "telefone": "8999983123"
+        },
+        "endereco": {
+          "rua": "Rua boa vista",
+          "bairro": "Pirangi",
+          "cidade": "Natal",
+          "numero": "46"
+        },
+        "caracteristicas": {
+          "tamanho": "200m2",
+          "numQuartos": 6,
+          "numBanheiros": 3
+        },
+        "valor": 10000000
+      },
+      {
+        "descricao": "Localizado no suburbio de Nova York",
+        "proprietario": {
+          "nome": "Jalen Brunson",
+          "email": "",
+          "telefone": "0981-1323"
+        },
+        "endereco": {
+          "rua": "Rua dos floats",
+          "bairro": "Centro",
+          "cidade": "Nova York",
+          "numero": "11"
+        },
+        "caracteristicas": {
+          "tamanho": "188m2",
+          "numQuartos": 8,
+          "numBanheiros": 6
+        },
+        "valor": 690000000
+      },
+      {
+        "descricao": "Lebron house",
+        "proprietario": {
+          "nome": "Lebron Raymone James",
+          "email": "King@gmail.com",
+          "telefone": "4332509908"
+        },
+        "endereco": {
+          "rua": "Rua das cabras",
+          "bairro": "Brentwood",
+          "cidade": "Los Angeles",
+          "numero": "23"
+        },
+        "caracteristicas": {
+          "tamanho": "209m2",
+          "numQuartos": 13,
+          "numBanheiros": 4
+        },
+        "valor": 57446000000
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<imobiliária xmlns="http://imobiliaria.org" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://imobiliaria.org imobiliaria.xsd">
+    <imovel>
+        <descricao>Mansão em chicago, proxima ao United Center</descricao>
+        <proprietario>
+            <nome>Michael Jeffrey Jordan</nome>
+            <email>TheGoat@gmail.com</email>
+            <telefone>9090-2346</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua dos bulls</rua>
+            <bairro>United Center</bairro>
+            <cidade>Chicago</cidade>
+            <número>46</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>1972</tamanho>
+            <numQuartos>15</numQuartos>
+            <numBanheiros>5</numBanheiros>
+        </caracteristicas>
+        <valor>3.500.000.000</valor>
+    </imovel>
+    <imovel>
+        <descricao>Muito linda</descricao>
+        <proprietario>
+            <nome>Oliveira</nome>
+            <email>oliveira@gmail.com</email>
+            <telefone>302139809, 309182039</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua dos banzeiro</rua>
+            <bairro>centro</bairro>
+            <cidade>São Jose</cidade>
+        </endereco>
+        <caracteristicas >
+            <tamanho>1502</tamanho>
+            <numQuartos>4</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas >
+        <valor>10000000</valor>
+    </imovel>
+    <imovel>
+        <descricao>Casa na praia</descricao>
+        <proprietario>
+            <nome>Ana</nome>
+            <email>Analinda@gmail.com</email>
+            <telefone>8999983123</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua boa vista</rua>
+            <bairro>Pirangi</bairro>
+            <cidade>Natal</cidade>
+            <número>46</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>2002</tamanho>
+            <numQuartos>6</numQuartos>
+            <numBanheiros>3</numBanheiros>
+        </caracteristicas>
+        <valor>10000000</valor>
+    </imovel>
+    <imovel>
+        <descricao>Localizado no suburbio de Nova York</descricao>
+        <proprietario>
+            <nome>Jalen Brunson</nome>
+            <email></email>
+            <telefone>0981-1323</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua dos floats</rua>
+            <bairro>Centro</bairro>
+            <cidade>Nova York</cidade>
+            <número>11</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>1882</tamanho>
+            <numQuartos>8</numQuartos>
+            <numBanheiros>6</numBanheiros>
+        </caracteristicas>
+        <valor>690000000</valor>
+    </imovel>
+    <imovel>
+        <descricao>Lebron house</descricao>
+        <proprietario>
+            <nome>Lebron Raymone James</nome>
+            <email>King@gmail.com</email>
+            <telefone>4332509908</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua das cabras</rua>
+            <bairro>Brentwood</bairro>
+            <cidade>Los Angeles</cidade>
+            <número>23</número>
+        </endereco>
+        <caracteristicas>
+            <tamanho>2092</tamanho>
+            <numQuartos>13</numQuartos>
+            <numBanheiros>4</numBanheiros>
+        </caracteristicas>
+        <valor>57446000000</valor>
+    </imovel>
+</imobiliária>

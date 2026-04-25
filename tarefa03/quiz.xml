@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE quiz SYSTEM "quiz.dtd">
+<quiz versao="1.0">
+<disciplina>NBA</disciplina>
+<professor>
+    <nome>Adam Silver</nome>
+    <matrícula>73928</matrícula>
+</professor>
+<turma>InfoWeb4V</turma>
+<data>2026-02-08</data>
+<questões>
+    <questão>
+        <enunciado>Que ano o LeBron nasceu?</enunciado>
+        <pontuação>23</pontuação>
+        <alternativas>
+            <alternativa correta="nao">30-12-1983</alternativa>
+            <alternativa correta="nao">30-11-1984</alternativa>
+            <alternativa correta="nao">30-12-1982</alternativa>
+            <alternativa correta="sim">30-12-1984</alternativa>
+        </alternativas>
+    </questão>
+    <questão>
+        <enunciado>Primeiro vez que Golden States Warriors foi campeão?</enunciado>
+        <pontuação>30</pontuação>
+        <alternativas>
+            <alternativa correta="sim">2015</alternativa>
+            <alternativa correta="nao">1947</alternativa>
+            <alternativa correta="nao">2018</alternativa>
+            <alternativa correta="nao">1996</alternativa>
+        </alternativas>
+    </questão>
+    <questão>
+        <enunciado>Quantos titulos tem Michael Jordan?</enunciado>
+        <pontuação>46</pontuação>
+        <alternativas>
+            <alternativa correta="nao">5</alternativa>
+            <alternativa correta="sim">6</alternativa>
+            <alternativa correta="nao">11</alternativa>
+            <alternativa correta="nao">7</alternativa>
+        </alternativas>
+    </questão>
+    <questão>
+        <enunciado>Camisa aposentada por todos os times da NBA?</enunciado>
+        <pontuação>13</pontuação>
+        <alternativas>
+            <alternativa correta="nao">13</alternativa>
+            <alternativa correta="nao">23</alternativa>
+            <alternativa correta="sim">30</alternativa>
+            <alternativa correta="nao">6</alternativa>
+        </alternativas>
+    </questão>
+    <questão>
+        <enunciado>Apelido do LeBron?</enunciado>
+        <pontuação>1</pontuação>
+        <alternativas>
+            <alternativa correta="nao">Chef</alternativa>
+            <alternativa correta="nao">Magic</alternativa>
+            <alternativa correta="sim">King</alternativa>
+            <alternativa correta="nao">Black Mamba</alternativa>
+        </alternativas>
+    </questão>
+</questões>
+</quiz>

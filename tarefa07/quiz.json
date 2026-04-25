@@ -1,0 +1,63 @@
+{
+  "quiz": {
+    "disciplina": "NBA",
+    "professor": {
+      "nome": "Adam Silver",
+      "matricula": "73928"
+    },
+    "turma": "InfoWeb4V",
+    "data": "2026-02-08",
+    "questoes": [
+      {
+        "enunciado": "Que ano o LeBron nasceu?",
+        "pontuacao": 23,
+        "alternativas": [
+          { "texto": "30-12-1983", "correta": false },
+          { "texto": "30-11-1984", "correta": false },
+          { "texto": "30-12-1982", "correta": false },
+          { "texto": "30-12-1984", "correta": true }
+        ]
+      },
+      {
+        "enunciado": "Primeiro vez que Golden States Warriors foi campeão?",
+        "pontuacao": 30,
+        "alternativas": [
+          { "texto": "2015", "correta": true },
+          { "texto": "1947", "correta": false },
+          { "texto": "2018", "correta": false },
+          { "texto": "1996", "correta": false }
+        ]
+      },
+      {
+        "enunciado": "Quantos titulos tem Michael Jordan?",
+        "pontuacao": 46,
+        "alternativas": [
+          { "texto": "5", "correta": false },
+          { "texto": "6", "correta": true },
+          { "texto": "11", "correta": false },
+          { "texto": "7", "correta": false }
+        ]
+      },
+      {
+        "enunciado": "Camisa aposentada por todos os times da NBA?",
+        "pontuacao": 13,
+        "alternativas": [
+          { "texto": "13", "correta": false },
+          { "texto": "23", "correta": false },
+          { "texto": "30", "correta": true },
+          { "texto": "6", "correta": false }
+        ]
+      },
+      {
+        "enunciado": "Apelido do LeBron?",
+        "pontuacao": 1,
+        "alternativas": [
+          { "texto": "Chef", "correta": false },
+          { "texto": "Magic", "correta": false },
+          { "texto": "King", "correta": true },
+          { "texto": "Black Mamba", "correta": false }
+        ]
+      }
+    ]
+  }
+}
